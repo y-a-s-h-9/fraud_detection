@@ -25,8 +25,6 @@ This project is a real-time data visualization tool designed to provide actionab
    ```bash
    python app.py
 
-
-
 ## Output
 
 
